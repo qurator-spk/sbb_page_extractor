@@ -3,7 +3,8 @@ This tool allow you to extract page ( border or print space) from a image docume
 the main image (for example label of main image).
 
 ## Installation
-./make.sh
+
+      ./make.sh
 
 ## How to use 
     
