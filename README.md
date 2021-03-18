@@ -9,3 +9,7 @@ the main image (for example label of main image).
 ## How to use 
     
       page_extractor -i <image file name> -o <output file name> -m <directory of model> -ci <corresponding image file name> -co <corresponding output file name>
+      
+      
+## Model
+Model can be found here https://qurator-data.de/sbb_textline_detector/. The name of the model is 'model_page_mixed_best'.
